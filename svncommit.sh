@@ -5,3 +5,4 @@ pwd
 git checkout svn
 git merge master
 git svn dcommit
+git te
